@@ -2,6 +2,8 @@
 
 ### A github pages display for jekyll blogger
 
+Demo [https://gitjek.pages.dev/](https://gitjek.pages.dev/)
+
 Documentation : [https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-template-themes.html →](https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-template-themes.html)
 
 ------------------------
@@ -21,9 +23,11 @@ Mobile display
 
 ----------------------------------
 
+
 Documentation : [https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-template-themes.html →](https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-template-themes.html)
 
 
+Demo [https://gitjek.pages.dev →](https://gitjek.pages.dev/)
 
 
 
