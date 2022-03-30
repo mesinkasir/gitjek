@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Gitjek
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/gitjek/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### A github pages display for jekyll blogger
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Demo [https://gitjek.pages.dev/](https://gitjek.pages.dev/)
 
-### Markdown
+Documentation : [https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-template-themes.html →](https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-template-themes.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+------------------------
 
-```markdown
-Syntax highlighted code block
+![free download jekyll themes template source code](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFdcJkhsuI3dBm0qWmJov0Gj01bAyr_ZNodKfZcuxAswRHLsyg0IyPSnG5cckhcb0gC3xMSPtmujDtkKZ3Ed7HUBFz6xxXewRMLQjvxk7F0TY_5G1uVKSf0tMn20A1V0UGecE8gWfHlsw8mN9ED9g2HdX1hpXvyKBy9-9TXFChidu7EFCqqzQCFUH1vA/s1349/Github%20Pages%20Jekyll%20template%20themes%20free%20download%20source%20code%20gratis%20(1).png)
 
-# Header 1
-## Header 2
-### Header 3
+Home page area display
 
-- Bulleted
-- List
+![free download jekyll themes template source code](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe1KyCkTYIPBvxksgDpAAA8yKrac3n9Vnzt9c7eCdZ43PaawWHJBKcpllA1ZBPn3clDK6C4X4iASMxs8BNc6001DFI5wbVXePju-yTfWpwQv3V6CsH_t2Vkr-b3FRiC7iYvZ7FarICezhigUCuCafdKoO6Roa4Fwwiqcn3vfx9tXSBvKXCGiyHpeiPdQ/s1349/Github%20Pages%20Jekyll%20template%20themes%20free%20download%20source%20code%20gratis%20(2).png)
 
-1. Numbered
-2. List
+Content area display
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+![free download jekyll themes template source code](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLWzhYhmC4aNOMSGEpBUyqrYk7t8arMQAAjZZ87HJXKHI3mQlAGBCyJx1jPXexJNTEOWMDngzDdaVQi_mSCNAzU_66ivHC00iWgCioCyUrI4o1xdZOBNI7lb2AJVArNtKoyReUA6LGyX5xT_MaEC2G68kkg5u6Tb16eMKqK8QxAvdj_0FjzTZmsSHsCQ/s674/Github%20Pages%20Jekyll%20template%20themes%20free%20download%20source%20code%20gratis%20(3).png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Mobile display
 
-### Jekyll Themes
+----------------------------------
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/gitjek/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+Documentation : [https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-template-themes.html →](https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-template-themes.html)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+Demo [https://gitjek.pages.dev →](https://gitjek.pages.dev/)
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+### Buy me a coffee ☕️ ❤️  ✌🏻 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
+
+--------------------------------------------------------------------------------------------------------------------
+
+
