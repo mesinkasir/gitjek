@@ -30,6 +30,18 @@ Documentation : [https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-te
 Demo [https://gitjek.pages.dev →](https://gitjek.pages.dev/)
 
 
+--------------------------------------------------------------------------------------------------------------------
 
+
+### Buy me a coffee ☕️ ❤️  ✌🏻 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
+
+--------------------------------------------------------------------------------------------------------------------
 
 
