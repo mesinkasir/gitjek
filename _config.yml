@@ -1,0 +1,42 @@
+title: GitJek
+author:
+  name: Axcora
+  email: axcora@gmail.com
+  whatsapp: 6285646104747
+  phone: +62895339403223
+  map: https://goo.gl/maps/EpcU3m3ryPMihifx7
+description: A Github pages for jekyll blogger - free template and source code download.
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# dablogger date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+dablogger:
+  date_format: "%b %-d, %Y"
+
+  # Header menu external link
+menu:
+    menu2: Doc
+    menu3: Download
+    menuurl2: https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-template-themes.html
+    menuurl3: https://github.com/mesinkasir/gitjek
+
+  # generate social links in footer
+social:
+    github:  mesinkasir
+    facebook: mesinkasircomplete
+    instagram: mesinkasircomplete
+    youtube: bakoelraksupermarketMesinKasir
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+
+# Build settings
+theme: gitjek
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
