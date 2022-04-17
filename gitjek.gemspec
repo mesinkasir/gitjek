@@ -7,10 +7,8 @@ Gem::Specification.new do |spec|
   spec.email    = ["creativebydre@gmail.com"]
 
   spec.summary  = "A Github pages for jekyll blogger."
-  spec.homepage = "https://dablogger.web.app/"
+  spec.homepage = "https://gitjek.pages.dev/"
   spec.license  = "MIT"
-
-  spec.metadata["plugin_type"] = "theme"
 
   spec.files = `git ls-files -z`.split("\x0").select do |f|
     f.match(%r!^(assets|_(includes|layouts|sass)/|(LICENSE|README)((\.(txt|md|markdown)|$)))!i)
